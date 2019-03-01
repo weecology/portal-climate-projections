@@ -1,0 +1,11 @@
+var: TPNX
+yr1: 1977
+mo1: Jan
+yr2: 1999
+mo2: Dec
+lat1: 31.8125
+lat2: 32.0625
+lon1: -109.1875
+lon2: -108.9375
+analysis: no
+products: 1_8obs, 1obs

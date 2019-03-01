@@ -1,0 +1,24 @@
+Product:               Bias-corrected statistically downscaled GCM data
+Variables:             tas       pr        tasmin    tasmax    
+ NetCDF type:          float     float     float     float     
+ NetCDF missing value:  1e+20     1e+20     1e+20     1e+20     
+Period:                1977Jan through 2099Jan
+Resolution:            1/8 degree
+Latitude bounds:       (31.75, 32.125)
+Longitude bounds:      (-109.25, -108.875)
+Area within bounds:    1475 km^2 (approx)
+Dimensions:         
+ Times:                1465
+ Latitudes:            3
+ Longitudes:           3
+ Projections:          107
+
+
+Global attributes
+-----------------
+Conventions:           GDT 1.2
+authors:               Bridget Thrasher, Ed Maurer
+description:           Bias-corrected and downscaled GCM data
+creation_date:         2012
+institution:           Climate Analytics Group, Santa Clara U.
+SurfSgnConvention:     Traditional
